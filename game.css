@@ -1,0 +1,20 @@
+.iframe_game{
+    display: flex;
+    justify-content: center;
+    width: 95%;
+    padding: 2%;
+    margin: 2%;
+    /*border: 3px solid grey;
+    border-radius: 10px;*/
+}
+.game_description{
+    font-size: larger;
+    margin: 2%;
+}
+.game_description h1{
+    font-size: xx-large;
+}
+.iframe_balise{
+    border: 2px solid grey;
+    border-radius: 16px;
+}
